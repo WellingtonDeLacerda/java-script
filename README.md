@@ -25,10 +25,10 @@ Todo o material está contido na pasta principal **`aulas`**, organizada sequenc
 
 | Módulo/Tópico | Conteúdo | Link Rápido |
 | :--- | :--- | :--- |
-| **M01** | Introdução e Primeiros Comandos | [Acessar](aulas/aula01) |
-| **M02** | Variáveis, Tipos de Dados e Operadores | [Acessar](aulas/aula02) |
-| **M03** | Estruturas Condicionais (if/else) e Repetições (for/while) | [Acessar](aulas/aula03) |
-| **M04** | Funções, Arrays e Objetos | [Acessar](aulas/aula04) |
+| **M01** | Introdução e Primeiros Comandos | [Acessar](aulas/aula04) |
+| **M02** | Variáveis, Tipos de Dados e Operadores | [Acessar](aulas/aula05) |
+| **M03** | Estruturas Condicionais (if/else) e Repetições (for/while) | [Acessar](aulas/aula05) |
+| **M04** | Funções, Arrays e Objetos | [Acessar](aulas/aula06) |
 | **Todas as aulas** | 
 [Acessar](aulas/) |
 
