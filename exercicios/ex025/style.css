@@ -1,0 +1,41 @@
+@charset 'UTF-8';
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background: lightgrey;
+    font: normal 500 1rem Arial, Sans-serif;
+    text-align: left;
+    padding: 1rem;
+}
+h1 {
+    margin: 1rem 0rem;
+}
+input[type="number"] {
+    padding: .7rem;
+    border-radius: .5rem;
+    background: gray;
+    color: white;
+}
+input[type="number"]::placeholder {
+    color: white;
+}
+input[type="number"]:focus {
+    background: white;
+    color: black;
+}
+#btn {
+    padding: .7rem;
+    border-radius: .7rem;
+    margin-bottom: 1rem;
+}
+p {
+    margin-bottom: 1rem;
+}
+#res {
+    background: white;
+    padding: 1rem;
+    line-height: 2rem;
+}

@@ -1,0 +1,6 @@
+const btn = document.querySelector("#btn")
+
+btn.addEventListener("click", () => {
+    let nome = prompt("Qual é o seu nome")
+    alert(`Bem-vindo ${nome}`)
+})

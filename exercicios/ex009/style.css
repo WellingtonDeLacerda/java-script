@@ -1,0 +1,44 @@
+@charset 'UTF-8';
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background: lightgrey;
+    font: normal 500 1rem Arial, Sans-serif;
+    text-align: center;
+}
+h1 {
+    margin: 1rem 0rem;
+}
+.btn {
+    padding: 1rem;
+    border-radius: 1rem;
+}
+div {
+    margin: 1rem 0rem;
+    padding: 1rem;
+    border: 1px solid black;
+    line-height: 2rem;
+}
+p {
+    margin-bottom: 1rem;
+    border-top: 1px solid black;
+}
+.btn1 {
+    background:darkblue ;
+    color:white ;
+}
+.btn2 {
+    background:darkslategray ;
+    color:white ;
+}
+.btn3 {
+    background:darkgreen ;
+    color:white ;
+}
+.btn4 {
+    background:darkred ;
+    color:white ;
+}

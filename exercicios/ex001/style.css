@@ -1,0 +1,14 @@
+@charset 'UTF-8';
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background: lightgrey;
+    font: normal 500 1rem Arial, Sans-serif;
+    text-align: center;
+}
+h1 {
+    margin: 1rem 0rem;
+}

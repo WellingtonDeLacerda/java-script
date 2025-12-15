@@ -1,0 +1,51 @@
+@charset 'UTF-8';
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background: lightgrey;
+    font: normal 500 1rem Arial, Sans-serif;
+    text-align: center;
+}
+h1 {
+    margin: 1rem 0rem;
+}
+#btn {
+    padding: 1rem;
+    border-radius: 1rem;
+}
+div {
+    margin: 1rem 0rem;
+    padding: 1rem;
+    border: 1px solid black;
+}
+p {
+    margin-bottom: 1rem;
+}
+#cond1 {
+    background:darkred ;
+    color: white;
+    padding:1rem ;
+}
+#cond2 {
+    background:red ;
+    color:white ;
+    padding: 1rem;
+}
+#cond3 {
+    background: lime;
+    color: black;
+    padding: 1rem;
+}
+#cond4 {
+    background: yellow;
+    color:black ;
+    padding:1rem ;
+}
+#cond5 {
+    background: green;
+    color: white;
+    padding:1rem ;
+}
