@@ -27,8 +27,8 @@ Todo o material está contido na pasta principal **`aulas`**, organizada sequenc
 | :--- | :--- | :--- |
 | **M01** | Introdução e Primeiros Comandos | [Acessar](aulas/aula04) |
 | **M02** | Variáveis, Tipos de Dados e Operadores | [Acessar](aulas/aula05) |
-| **M03** | Estruturas Condicionais (if/else) e Repetições (for/while) | [Acessar](aulas/aula05) |
-| **M04** | Funções, Arrays e Objetos | [Acessar](aulas/aula06) |
+| **M03** | Estruturas Condicionais (if/else) e Repetições (for/while) | [Acessar](aulas/aula11) |
+| **M04** | Funções, Arrays e Objetos | [Acessar](aulas/aula15) |
 | **Todas as aulas** | 
 [Acessar](aulas/) |
 
