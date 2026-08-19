@@ -2,7 +2,7 @@ var agora = new Date()
 var tempo = agora.getHours()
 var caixa = document.querySelector("div#caixa")
 var clima = " "
-function ver(){
+function verHoras(){
     caixa.style.display = "block"
     if (tempo < 12){
         clima = "manhã"
