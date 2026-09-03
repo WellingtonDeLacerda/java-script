@@ -19,3 +19,15 @@ if (grade >= 9) {
 }else {
   console.log("Reprovado estude mais na proxima")
 }
+
+const sideA = 3
+const sideB = 4
+const sideC = 5
+
+if (sideA === sideB && sideB === sideC) {
+  console.log("O triangulo é equilátero")
+}else if (sideA === sideB || sideB || sideB === sideC || sideC === sideA) {
+  console.log("O triangulo é isoscele")
+}else {
+  console.log("O tringulo é escaleno")
+}
