@@ -31,3 +31,19 @@ if (sideA === sideB && sideB === sideC) {
 }else {
   console.log("O tringulo é escaleno")
 }
+
+const performance = "ótimo";
+const baseSalary = 50000;
+let bonus = 0;
+
+if (performance === "ótimo") {
+    bonus = baseSalary * 0.2;
+} else if (performance === "muito bom") {
+    bonus = baseSalary * 0.15;
+} else if (performance === "bom") {
+    bonus = baseSalary * 0.1;
+} else if (performance === "regular") {
+    bonus = baseSalary * 0.05;
+} else {
+    console.log("Desempenho não reconhecido. Sem bônus.");
+}
