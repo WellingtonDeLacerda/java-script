@@ -1,0 +1,17 @@
+{
+  "name": "10-bibliotecas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@clack/prompts": "^1.8.0",
+    "chalk": "^6.0.0"
+  }
+}
