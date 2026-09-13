@@ -1,0 +1,16 @@
+{
+  "name": "14-promises-async-await",
+  "version": "1.0.0",
+  "main": "prompts.js",
+  "type": "module",
+  "scripts": {
+    "start": "node prompts.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@clack/prompts": "^1.8.1"
+  }
+}
