@@ -58,7 +58,7 @@ class Games {
   }
 }
 const parkoo = new Games("parkoo",300)
-const pyzzle = new Games("puzzle",30)
+const puzzle = new Games("puzzle",30)
 
 parkoo.delete()
 console.log(Games.game)
